@@ -33,3 +33,5 @@ PatternC(5)
 
 print("----Pattern D----")
 PatternD(5)
+
+print("----Pattern E----")
